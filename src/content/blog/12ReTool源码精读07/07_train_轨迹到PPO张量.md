@@ -8,7 +8,7 @@ tags:
 
 # 第七章：`train.py`——轨迹到 PPO 张量
 
-源码位置：`ohttps://github.com/KMnO4-zx/agentic-rl-lab/blob/main/05-retool/train.py`
+源码位置：`https://github.com/KMnO4-zx/agentic-rl-lab/blob/main/05-retool/train.py`
 
 ## 7.1 先抓住整章主线
 
